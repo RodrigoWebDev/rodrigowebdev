@@ -15,6 +15,13 @@ I'm a Front End Engineer
 
 <br/>
 
+## 📫 Showcase projects
+
+- Voltz: https://www.voltzmotors.com/
+- Wine: https://www.wine.com.br/
+- You Go Girls: https://yougogirls.com.br/
+- All projects: https://github.com/RodrigoWebDev?tab=repositories
+
 ## 📫 How to reach me: 
 
 <a href="mailto:rodrigo.queiroz.chagas@gmail.com" target="_blank"><img align="left" alt="rodrigowebdev | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
