@@ -15,7 +15,7 @@ I'm a Front End Engineer
 
 <br/>
 
-## 📫 Showcase projects
+## 🛠 Showcase projects
 
 - Voltz: https://www.voltzmotors.com/
 - Wine: https://www.wine.com.br/
