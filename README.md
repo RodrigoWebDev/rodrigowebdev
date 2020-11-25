@@ -2,9 +2,9 @@
 
 I'm a Front End Engineer
 
-[![Website](https://img.shields.io/website?label=website&style=for-the-badge&url=https%3A%2F%2Frqueiroz.netlify.app)](https://rqueiroz.netlify.app/)
-[![CV](https://img.shields.io/website?label=curriculum&style=for-the-badge&url=https%3A%2F%2Frqueiroz.netlify.app)](https://rqueiroz.netlify.app/Curriculo.pdf)
-[![Portfolio](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://github.com/RodrigoWebDev?tab=repositories)](https://github.com/RodrigoWebDev?tab=repositories)
+[![Website](https://img.shields.io/static/v1?label=website&message=up&color=yellow)](https://rqueiroz.netlify.app/)
+[![CV](https://img.shields.io/static/v1?label=curriculum&message=up&color=yellow)](https://rqueiroz.netlify.app/Curriculo.pdf)
+[![Portfolio](https://img.shields.io/static/v1?label=portfolio&message=up&color=yellow)](https://github.com/RodrigoWebDev?tab=repositories)
 
 <br/>
 
